@@ -1,0 +1,28 @@
+
+{
+
+  "graduationSystem":{
+    "introduction": "",
+    "urlImage": ""
+  },
+
+  
+  "graduationForAdults": [
+    {
+      "ropeName": "Crua", 
+      "introduction": "Descrição",
+      "url_image": "endereço"
+    }
+
+  ],
+
+  "graduationForJuvenile": [
+    {
+      "ropeName": "Crua", 
+      "introduction": "Descrição",
+      "url_image": "endereço"
+    }
+
+  ]
+
+}
