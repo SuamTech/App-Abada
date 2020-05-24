@@ -1,1 +1,22 @@
 
+{
+
+  "graduationForAdults": [
+    {
+      "ropeName": "Crua", 
+      "description": "Descrição",
+      "url_image": "endereço",
+    }
+
+  ],
+
+  "graduationForJuvenile": [
+    {
+      "ropeName": "Crua", 
+      "description": "Descrição",
+      "url_image": "endereço",
+    }
+
+  ]
+
+}
