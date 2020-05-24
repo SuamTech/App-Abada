@@ -1,11 +1,10 @@
-
 {
 
   "graduationForAdults": [
     {
       "ropeName": "Crua", 
       "description": "Descrição",
-      "url_image": "endereço",
+      "url_image": "endereço"
     }
 
   ],
@@ -14,9 +13,8 @@
     {
       "ropeName": "Crua", 
       "description": "Descrição",
-      "url_image": "endereço",
+      "url_image": "endereço"
     }
-
   ]
 
 }
