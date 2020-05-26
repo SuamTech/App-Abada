@@ -1,28 +1,139 @@
-
 {
 
   "graduationSystem":{
-    "introduction": "",
-    "urlImage": ""
+    "introduction": "Nosso sistema de graduação na Abadá-Capoeira tem como referência a natureza. Cada cor representa um elemento da natureza, com características distintas, assim cada corda relaciona-se com um elemento da natureza e recebe no seu uso a importância dos reinos vegetal, animal e mineral.",
+    "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Sistema%20de%20graduação.jpg"
   },
 
-  
   "graduationForAdults": [
     {
       "ropeName": "Crua", 
-      "introduction": "Descrição",
-      "url_image": "endereço"
+      "position": "Iniciante",
+      "competitionCategory": "#",
+      "introduction": "Crua: Cor neutra. Dada para iniciantes na capoeira, significa que o aluno não tem conhecimento nenhum",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+    },
+    {
+      "ropeName": "Crua-Amarela", 
+      "position": "Aluno",
+      "competitionCategory": "#",
+      "introduction": "Crua-Amarela: Essa é a primeira corda que o aluno recebe ao ser batizado e será chamado pelo apelido atribuído a ele(a)",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua-Amarela.png"
+    },
+    {
+      "ropeName": "Amarela", 
+      "position": "Aluno",
+      "competitionCategory": "#",
+      "introduction": "Amarela: 'O Ouro' - Significa a valorização do aprendizado que será desenvolvido a partir dessa graduação.",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Amarela.png"
+    },
+    {
+      "ropeName": "Amarela-Laranja", 
+      "position": "Aluno",
+      "competitionCategory": "#",
+      "introduction": "Transformação",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Amarela-Laranja.png"
+    },
+    {
+      "ropeName": "Laranja", 
+      "position": "Aluno",
+      "competitionCategory": "D",
+      "introduction": "Laranja: 'O Sol' - Significa o despertar para a consciência do aprendizado",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Laranja.png"
+    },
+    {
+      "ropeName": "Laranja-Azul", 
+      "position": "Aluno",
+      "competitionCategory": "D",
+      "introduction": "Laranja-Azul: Nessa corda o aluno se preparam para o entrar na vaze de aluno graduado, significa que eles podem aprender a ensinar e ajudar no aprendizado dos alunos iniciantes",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Laranja-Azul.png"
+    },
+    {
+      "ropeName": "Azul", 
+      "position": "Aluno graduado",
+      "competitionCategory": "C",
+      "introduction": "Azul: 'O Mar' - Nessa graduação o aluno deixa de ser um aluno iniciante para se torna um aluno graduado despertando a consciência da imensidão do caminho a percorrer na capoeira",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Azul.png"
+    },
+    {
+      "ropeName": "Azul-Verde", 
+      "position": "Aluno graduado",
+      "competitionCategory": "C",
+      "introduction": "Transformação",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Azul-Verde.png"
+    },
+    {
+      "ropeName": "Verde", 
+      "position": "Aluno graduado",
+      "competitionCategory": "B",
+      "introduction": "Verde: 'A Floresta' - Nessa graduação o aluno graduado solidifica seu aprendizado",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Verde.png"
+    },
+    {
+      "ropeName": "Verde-Roxa", 
+      "position": "Aluno graduado",
+      "competitionCategory": "B",
+      "introduction": "Transformação",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Verde-Roxa.png"
+    },
+    {
+      "ropeName": "Roxa", 
+      "position": "Instrutor",
+      "competitionCategory": "A",
+      "introduction": "Roxa: 'A Ametista' - Nessa graduação o capoeirista procura superar a dor física, psicológica e espiritual em busca de conhecimento na capoeira nos ideais da Abadá-Capoeira",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Roxa.png"
+    },
+    {
+      "ropeName": "Roxa-Marrom", 
+      "position": "Instrutor",
+      "competitionCategory": "A",
+      "introduction": "Roxa-Marrom: Transformação. Nessa corda o aluno graduado se prepara para se tornar um professor",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Roxa-Marrom.png"
+    },
+    {
+      "ropeName": "Marrom", 
+      "position": "Professor",
+      "competitionCategory": "A",
+      "introduction": "Marrom: 'O Camaleão' -  Graduação de professor, é a corda que representa o estilo e a técnica da Abadá-Capoeira",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Marrom.png"
+    },
+    {
+      "ropeName": "Marrom-Vermelha", 
+      "position": "Professor",
+      "competitionCategory": "A",
+      "introduction": "Marrom-Vermelha: Transformação. A partir dessa graduação que será formado os futuros mestrandos, mestres e grão-mestres da Abadá-Capoeira",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Marrom-Vermelha.png"
+    },
+    {
+      "ropeName": "Vermelha", 
+      "position": "Mestrando",
+      "competitionCategory": "#",
+      "introduction": "Vermelha: 'O Rubi' - É a pedra que simboliza a justiça. Nessa graduação o capoeirista adquire a consciência da responsabilidade na capoeira e na escola",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Vermelha.png"
+    },
+    {
+      "ropeName": "Vermelha-Branca", 
+      "position": "Mestre",
+      "competitionCategory": "#",
+      "introduction": "Vermelha-Branca: Transformação. Essa é graduação que presenta o conhecimento e a sabedoria na capoeira para todos os alunos das graduações antecedentes",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Vermelha-Branca.png"
+    },
+    {
+      "ropeName": "Branca", 
+      "position": "Grão-Mestre",
+      "competitionCategory": "#",
+      "introduction": "Branca: 'O Diamante' - É o mineral mais resistente, que reflete todas as cores. É a graduação que representa todo o sistema da Abadá-Capoeira, seus ideais, filosofia e fundamento. É o grão-mestre de gerencia e conduz o futuro da escola",
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Branca.png"
     }
-
   ],
 
   "graduationForJuvenile": [
     {
       "ropeName": "Crua", 
-      "introduction": "Descrição",
-      "url_image": "endereço"
+      "introduction": "introdução",
+      "urlImage": "endereço"
     }
-
   ]
 
 }
+
