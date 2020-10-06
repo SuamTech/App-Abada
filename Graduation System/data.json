@@ -17,7 +17,7 @@
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
-      "ropeName": "Pontas Crua-Amarela", 
+      "ropeName": "Ponta Crua-Amarela", 
       "position": "Aluno",
       "graduationOrder": "1º graduação",
       "category": "InfantoJuvenil",
@@ -26,7 +26,7 @@
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
-      "ropeName": "Pontas Amarela", 
+      "ropeName": "Ponta Amarela", 
       "position": "Aluno",
       "graduationOrder": "2º graduação",
       "category": "InfantoJuvenil",
@@ -35,7 +35,7 @@
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
-      "ropeName": "Pontas Amarela-Laranja", 
+      "ropeName": "Ponta Amarela-Laranja", 
       "position": "Aluno",
       "graduationOrder": "3º graduação",
       "category": "InfantoJuvenil",
@@ -44,7 +44,7 @@
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
-      "ropeName": "Pontas Laranja", 
+      "ropeName": "Ponta Laranja", 
       "position": "Aluno",
       "graduationOrder": "4º graduação",
       "category": "InfantoJuvenil",
@@ -53,7 +53,7 @@
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
-      "ropeName": "Pontas Laranja-Azul", 
+      "ropeName": "Ponta Laranja-Azul", 
       "position": "Aluno",
       "graduationOrder": "5º graduação",
       "category": "InfantoJuvenil",
@@ -62,7 +62,7 @@
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
-      "ropeName": "Pontas Azul", 
+      "ropeName": "Ponta Azul", 
       "position": "Aluno",
       "graduationOrder": "6º graduação",
       "category": "InfantoJuvenil",
@@ -86,7 +86,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Para crianças de 10 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Amarela.png"
     },
     {
       "ropeName": "Crua-Laranja",
@@ -104,7 +104,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Para adolescente de 12 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Amarela-Larenja.png"
     },
     {
       "ropeName": "Laranja", 
@@ -113,7 +113,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": "Competidor InfantoJuvenil categoria D",
       "introduction": "Para adolescente de 13 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Laranje.png"
     },
     {
       "ropeName": "Crua-Azul", 
@@ -140,7 +140,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": "Competidor InfantoJuvenil categoria D",
       "introduction": "Para adolescente de 16 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Laranja-Azul.png"
     },
     {
       "ropeName": "Azul", 
@@ -149,7 +149,7 @@
       "graduationOrder": "Última graduação Juvenil",
       "category": "Adulto",
       "introduction": "Essa graduação tem a mesma equevalência da corda azul da categoria dos adultos. Geralmente o aluno recebe essa graduação entre os 17 e 18 ano de idade",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Azul.png"
     }
   ],
 
@@ -322,4 +322,3 @@
   ]
 
 }
-
