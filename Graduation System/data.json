@@ -8,8 +8,8 @@
   "graduationJuvenile": [
     {
       "ropeName": "Crua", 
-      "position": "Aluno",
-      "graduationOrder": null,
+      "graduation": "Aluno(a)",
+      "graduationOrder": "0º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Corda neutra dada para crianças de qualquer idade",
@@ -17,7 +17,7 @@
     },
     {
       "ropeName": "Ponta Crua-Amarela", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "1º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": null,
@@ -26,7 +26,7 @@
     },
     {
       "ropeName": "Ponta Amarela", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "2º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": null,
@@ -35,7 +35,7 @@
     },
     {
       "ropeName": "Ponta Amarela-Laranja", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "3º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": null,
@@ -44,7 +44,7 @@
     },
     {
       "ropeName": "Ponta Laranja", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "4º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": null,
@@ -53,7 +53,7 @@
     },
     {
       "ropeName": "Ponta Laranja-Azul", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "5º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": null,
@@ -62,7 +62,7 @@
     },
     {
       "ropeName": "Ponta Azul", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "6º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": null,
@@ -71,7 +71,7 @@
     },
     {
       "ropeName": "Crua-Amarela", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "7º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": null,
@@ -80,7 +80,7 @@
     },
     {
       "ropeName": "Amarela", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "8º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": null,
@@ -89,7 +89,7 @@
     },
     {
       "ropeName": "Crua-Laranja",
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "9º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": null,
@@ -98,7 +98,7 @@
     },
     {
       "ropeName": "Amarela-Laranja", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "10º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": null,
@@ -107,7 +107,7 @@
     },
     {
       "ropeName": "Laranja", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "11º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": "Competidor InfantoJuvenil categoria D",
@@ -116,7 +116,7 @@
     },
     {
       "ropeName": "Crua-Azul", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "12º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": "Competidor InfantoJuvenil categoria D",
@@ -125,7 +125,7 @@
     },
     {
       "ropeName": "Amarela-Azul", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "13º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": "Competidor InfantoJuvenil categoria D",
@@ -134,7 +134,7 @@
     },
     {
       "ropeName": "Laranja-Azul",
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "14º graduação",
       "category": "InfantoJuvenil",
       "competitionCategory": "Competidor InfantoJuvenil categoria D",
@@ -143,10 +143,10 @@
     },
     {
       "ropeName": "Azul", 
-      "position": "Aluno Graduado",
-      "competitionCategory": "Competidor da categoria C",
+      "graduation": "Aluno(a) Graduado(a)",
       "graduationOrder": "Última graduação Juvenil",
       "category": "Adulto",
+      "competitionCategory": "Competidor(a) categoria C",
       "introduction": "Essa graduação tem a mesma equevalência da corda azul da categoria dos adultos. Geralmente o aluno recebe essa graduação entre os 17 e 18 ano de idade",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Azul.png"
     }
@@ -155,8 +155,8 @@
   "graduationAdults": [
     {
       "ropeName": "Crua", 
-      "position": "Iniciante",
-      "graduationOrder": null,
+      "graduation": "Iniciante",
+      "graduationOrder": "0º graduação",
       "category": "Adulto",
       "competitionCategory": null,
       "introduction": "Cor neutra. Dada para iniciantes na capoeira, significa que o aluno não tem conhecimento nenhum",
@@ -164,7 +164,7 @@
     },
     {
       "ropeName": "Crua-Amarela", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "1º graduação",
       "category": "Adulto",
       "competitionCategory": null,
@@ -173,7 +173,7 @@
     },
     {
       "ropeName": "Amarela", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "2º graduação",
       "category": "Adulto",
       "competitionCategory": null,
@@ -182,7 +182,7 @@
     },
     {
       "ropeName": "Amarela-Laranja", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "3º graduação",
       "category": "Adulto",
       "competitionCategory": null,
@@ -191,97 +191,97 @@
     },
     {
       "ropeName": "Laranja", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "4º graduação",
       "category": "Adulto",
-      "competitionCategory": "Competidor da categoria D",
+      "competitionCategory": "Competidor(a) categoria D",
       "introduction": "A cor laranja representa o Sol. Que significa o despertar da consciência para o aprendizado adquerido",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Laranja.png"
     },
     {
       "ropeName": "Laranja-Azul", 
-      "position": "Aluno",
+      "graduation": "Aluno(a)",
       "graduationOrder": "5º graduação",
       "category": "Adulto",
-      "competitionCategory": "Competidor da categoria D",
+      "competitionCategory": "Competidor(a) categoria D",
       "introduction": "Transformação. Nessa corda o aluno se prepara para o entrar na fase de aluno graduado, significa que ele(a) pode aprender a ensinar e ajudar no aprendizado dos alunos iniciantes",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Laranja-Azul.png"
     },
     {
       "ropeName": "Azul", 
-      "position": "Aluno graduado",
+      "graduation": "Aluno(a) Graduado(a)",
       "graduationOrder": "6º graduação",
       "category": "Adulto",
-      "competitionCategory": "Competidor da categoria C",
+      "competitionCategory": "Competidor(a) categoria C",
       "introduction": "A cor azul representa o Mar. Nessa graduação o aluno deixa de ser um aluno iniciante para se torna um aluno graduado despertando a consciência da imensidão do caminho a percorrer na capoeira",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Azul.png"
     },
     {
       "ropeName": "Azul-Verde", 
-      "position": "Aluno graduado",
+      "graduation": "Aluno(a) Graduado(a)",
       "graduationOrder": "7º graduação",
       "category": "Adulto",
-      "competitionCategory": "Competidor da categoria C",
+      "competitionCategory": "Competidor(a) categoria C",
       "introduction": "Transformação",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Azul-Verde.png"
     },
     {
       "ropeName": "Verde", 
-      "position": "Aluno graduado",
+      "graduation": "Aluno(a) Graduado(a)",
       "graduationOrder": "8º graduação",
       "category": "Adulto",
-      "competitionCategory": "Competidor da categoria B",
+      "competitionCategory": "Competidor(a) categoria B",
       "introduction": "A cor verde representa a Floresta (pulmão do mundo). Nessa graduação o aluno graduado solidifica seu aprendizado adquerido",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Verde.png"
     },
     {
       "ropeName": "Verde-Roxa", 
-      "position": "Aluno graduado",
+      "graduation": "Aluno(a) Graduado(a)",
       "graduationOrder": "9º graduação",
       "category": "Adulto",
-      "competitionCategory": "Competidor da categoria B",
+      "competitionCategory": "Competidor(a) categoria B",
       "introduction": "Transformação. Após essa graduação o aluno graduado se tornará um instrutor",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Verde-Roxa.png"
     },
     {
       "ropeName": "Roxa", 
-      "position": "Instrutor",
+      "graduation": "Instrutor(a)",
       "graduationOrder": "10º graduação",
       "category": "Adulto",
-      "competitionCategory": "Competidor da categoria A",
+      "competitionCategory": "Competidor(a) categoria A",
       "introduction": "A cor roxa representa a pedra preciosa Ametista. Nessa graduação o capoeirista reflete e procura superar a dor física, psicológica e espiritual em busca de mais conhecimentos na capoeira, além de defender e apoiar os ideais da ABADÁ-Capoeira",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Roxa.png"
     },
     {
       "ropeName": "Roxa-Marrom", 
-      "position": "Instrutor",
+      "graduation": "Instrutor(a)",
       "graduationOrder": "11º graduação",
       "category": "Adulto",
-      "competitionCategory": "Competidor da categoria A",
+      "competitionCategory": "Competidor(a) categoria A",
       "introduction": "Transformação. Nessa corda o instrutor se prepara para se tornar um professor",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Roxa-Marrom.png"
     },
     {
       "ropeName": "Marrom", 
-      "position": "Professor",
+      "graduation": "Professor(a)",
       "graduationOrder": "12º graduação",
       "category": "Adulto",
-      "competitionCategory": "Competidor da categoria A",
+      "competitionCategory": "Competidor(a) categoria A",
       "introduction": "A cor marrom representa o Camaleão. Graduação de professor, é a corda que representa o estilo e a técnica da ABADÁ-Capoeira",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Marrom.png"
     },
     {
       "ropeName": "Marrom-Vermelha", 
-      "position": "Professor",
+      "graduation": "Professor(a)",
       "graduationOrder": "13º graduação",
       "category": "Adulto",
-      "competitionCategory": "Competidor da categoria A",
+      "competitionCategory": "Competidor(a) categoria A",
       "introduction": "Transformação. É a partir dessa graduação que será formado os futuros mestrandos e mestres da ABADÁ-Capoeira",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Marrom-Vermelha.png"
     },
     {
       "ropeName": "Vermelha", 
-      "position": "Mestrando",
+      "graduation": "Mestrando(a)",
       "graduationOrder": "14º graduação",
       "category": "Adulto",
       "competitionCategory": null,
@@ -290,20 +290,20 @@
     },
     {
       "ropeName": "Vermelha-Branca", 
-      "position": "Mestre",
+      "graduation": "Mestre(a)",
       "graduationOrder": "15º graduação",
       "category": "Adulto",
       "competitionCategory": null,
-      "introduction": "Mestres. Essa é a graduação que presenta o conhecimento e a sabedoria na capoeira para todas as graduações antecedentes",
+      "introduction": "Os Mestres. Essa é a graduação que presenta o conhecimento e a sabedoria na capoeira para todas as graduações antecedentes",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Vermelha-Branca.png"
     },
     {
       "ropeName": "Branca", 
-      "position": "Grão-Mestre",
+      "graduation": "Grão-Mestre(a)",
       "graduationOrder": "Última graduação",
       "category": "Adulto",
       "competitionCategory": null,
-      "introduction": "A cor branca representa o Diamante, é o mineral que reflete todas as cores. Essa graduação é a junção de todas as cores do sistema de hierarquia, é a graduação que representa todo o sistema da ABADÁ-Capoeira, seus ideais, filosofia, fundamento e tradições. É o Grão-Mestre de gerencia e conduz o futuro da escola",
+      "introduction": "A cor branca representa o diamante, é o mineral que reflete todas as cores. Essa graduação é a junção de todas as cores do sistema de hierarquia, é a graduação que representa todo o sistema da ABADÁ-Capoeira, seus ideais, filosofia, fundamento e tradições. É o Grão-Mestre que gerencia e conduz o futuro da escola",
       "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Branca.png"
     }
   ],
@@ -311,7 +311,7 @@
   "graduationBaoba": [
     {
       "ropeName": "Amarela-Marrom", 
-      "position": "Professor",
+      "graduation": "Professor",
       "competitionCategory": null,
       "graduationOrder": "1º graduação",
       "category": "Baobá",
