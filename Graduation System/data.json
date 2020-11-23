@@ -2,7 +2,7 @@
 
   "graduationSystem":{
     "introduction": "O%20sistema%20de%20gradua%C3%A7%C3%A3o%20ABAD%C3%81-Capoeira%20tem%20o%20objetivo%20de%20hierarquizar%20os%20integrantes%20de%20acordo%20com%20seu%20n%C3%ADvel%20t%C3%A9cnico%20de%20conhecimento%20e%20as%20responsabilidades%20que%20o%20capoeirista%20tem%20para%20com%20a%20capoeira%20na%20escola%2C%20tendo%20como%20refer%C3%AAncia%20as%20cores%20da%20natureza.%20Cada%20cor%20representa%20brevemente%20um%20elemento%20da%20natureza%20%28vegetal%2C%20animal%20e%20mineral%29%20e%20suas%20caracter%C3%ADsticas.%0D%0A%0D%0AElementos%3A%0D%0A-%20Ouro%0D%0A-%20O%20Sol%0D%0A-%20O%20Mar%0D%0A-%20A%20Floresta%0D%0A-%20Pedra%20Ametista%0D%0A-%20Camale%C3%A3o%0D%0A-%20Pedra%20Rubi%0D%0A-%20Pedra%20Diamante",
-    "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Sistema%20de%20graduação.jpg"
+    "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Sistema%20de%20gradua%C3%A7%C3%A3o.jpg"
   },
 
   "graduationJuvenile": [
@@ -13,7 +13,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Corda neutra dada para crianças de qualquer idade",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
       "ropeName": "Ponta Crua-Amarela", 
@@ -22,7 +22,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Para crianças de 2 a 3 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
       "ropeName": "Ponta Amarela", 
@@ -31,7 +31,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Para crianças de 4 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
       "ropeName": "Ponta Amarela-Laranja", 
@@ -40,7 +40,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Para crianças de 5 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
       "ropeName": "Ponta Laranja", 
@@ -49,7 +49,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Para crianças de 6 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
       "ropeName": "Ponta Laranja-Azul", 
@@ -58,7 +58,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Para crianças de 7 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
       "ropeName": "Ponta Azul", 
@@ -67,7 +67,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Para crianças de 8 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
       "ropeName": "Crua-Amarela", 
@@ -76,7 +76,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Para crianças de 9 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
       "ropeName": "Amarela", 
@@ -85,7 +85,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Para crianças de 10 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Amarela.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Amarela.png"
     },
     {
       "ropeName": "Crua-Laranja",
@@ -94,7 +94,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Para crianças de 11 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
       "ropeName": "Amarela-Laranja", 
@@ -103,7 +103,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": null,
       "introduction": "Para adolescente de 12 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Amarela-Laranja.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Amarela-Laranja.png"
     },
     {
       "ropeName": "Laranja", 
@@ -112,7 +112,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": "Competidor InfantoJuvenil categoria D",
       "introduction": "Para adolescente de 13 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Laranja.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Laranja.png"
     },
     {
       "ropeName": "Crua-Azul", 
@@ -121,7 +121,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": "Competidor InfantoJuvenil categoria D",
       "introduction": "Para adolescente de 14 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
       "ropeName": "Amarela-Azul", 
@@ -130,7 +130,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": "Competidor InfantoJuvenil categoria D",
       "introduction": "Para adolescente de 15 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
       "ropeName": "Laranja-Azul",
@@ -139,7 +139,7 @@
       "category": "InfantoJuvenil",
       "competitionCategory": "Competidor InfantoJuvenil categoria D",
       "introduction": "Para adolescente de 16 anos",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Laranja-Azul.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Laranja-Azul.png"
     },
     {
       "ropeName": "Azul", 
@@ -148,7 +148,7 @@
       "category": "Adulto",
       "competitionCategory": "Competidor(a) categoria C",
       "introduction": "Essa graduação tem a mesma equevalência da corda azul da categoria dos adultos. Geralmente o aluno recebe essa graduação entre os 17 e 18 ano de idade",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Azul.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Azul.png"
     }
   ],
 
@@ -160,7 +160,7 @@
       "category": "Adulto",
       "competitionCategory": null,
       "introduction": "Cor neutra. Dada para iniciantes na capoeira, significa que o aluno não tem conhecimento nenhum",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     },
     {
       "ropeName": "Crua-Amarela", 
@@ -169,7 +169,7 @@
       "category": "Adulto",
       "competitionCategory": null,
       "introduction": "Essa é a primeira corda que o aluno recebe ao ser batizado e será chamado pelo apelido atribuído a ele",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua-Amarela.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua-Amarela.png"
     },
     {
       "ropeName": "Amarela", 
@@ -178,7 +178,7 @@
       "category": "Adulto",
       "competitionCategory": null,
       "introduction": "A cor amarela representa o OURO. Que significa a valorização do conhecimento que será obtido pelo aluno a partir dessa graduação.",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Amarela.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Amarela.png"
     },
     {
       "ropeName": "Amarela-Laranja", 
@@ -187,7 +187,7 @@
       "category": "Adulto",
       "competitionCategory": null,
       "introduction": "Transformação",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Amarela-Laranja.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Amarela-Laranja.png"
     },
     {
       "ropeName": "Laranja", 
@@ -196,7 +196,7 @@
       "category": "Adulto",
       "competitionCategory": "Competidor(a) categoria D",
       "introduction": "A cor laranja representa o Sol. Que significa o despertar da consciência para o aprendizado adquerido",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Laranja.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Laranja.png"
     },
     {
       "ropeName": "Laranja-Azul", 
@@ -205,7 +205,7 @@
       "category": "Adulto",
       "competitionCategory": "Competidor(a) categoria D",
       "introduction": "Transformação. Nessa corda o aluno se prepara para o entrar na fase de aluno graduado, significa que ele(a) pode aprender a ensinar e ajudar no aprendizado dos alunos iniciantes",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Laranja-Azul.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Laranja-Azul.png"
     },
     {
       "ropeName": "Azul", 
@@ -214,7 +214,7 @@
       "category": "Adulto",
       "competitionCategory": "Competidor(a) categoria C",
       "introduction": "A cor azul representa o Mar. Nessa graduação o aluno deixa de ser um aluno iniciante para se torna um aluno graduado despertando a consciência da imensidão do caminho a percorrer na capoeira",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Azul.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Azul.png"
     },
     {
       "ropeName": "Azul-Verde", 
@@ -223,7 +223,7 @@
       "category": "Adulto",
       "competitionCategory": "Competidor(a) categoria C",
       "introduction": "Transformação",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Azul-Verde.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Azul-Verde.png"
     },
     {
       "ropeName": "Verde", 
@@ -232,7 +232,7 @@
       "category": "Adulto",
       "competitionCategory": "Competidor(a) categoria B",
       "introduction": "A cor verde representa a Floresta (pulmão do mundo). Nessa graduação o aluno graduado solidifica seu aprendizado adquerido",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Verde.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Verde.png"
     },
     {
       "ropeName": "Verde-Roxa", 
@@ -241,7 +241,7 @@
       "category": "Adulto",
       "competitionCategory": "Competidor(a) categoria B",
       "introduction": "Transformação. Após essa graduação o aluno graduado se tornará um instrutor",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Verde-Roxa.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Verde-Roxa.png"
     },
     {
       "ropeName": "Roxa", 
@@ -250,7 +250,7 @@
       "category": "Adulto",
       "competitionCategory": "Competidor(a) categoria A",
       "introduction": "A cor roxa representa a pedra preciosa Ametista. Nessa graduação o capoeirista reflete e procura superar a dor física, psicológica e espiritual em busca de mais conhecimentos na capoeira, além de defender e apoiar os ideais da ABADÁ-Capoeira",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Roxa.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Roxa.png"
     },
     {
       "ropeName": "Roxa-Marrom", 
@@ -259,7 +259,7 @@
       "category": "Adulto",
       "competitionCategory": "Competidor(a) categoria A",
       "introduction": "Transformação. Nessa corda o instrutor se prepara para se tornar um professor",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Roxa-Marrom.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Roxa-Marrom.png"
     },
     {
       "ropeName": "Marrom", 
@@ -268,7 +268,7 @@
       "category": "Adulto",
       "competitionCategory": "Competidor(a) categoria A",
       "introduction": "A cor marrom representa o Camaleão. Graduação de professor, é a corda que representa o estilo e a técnica da ABADÁ-Capoeira",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Marrom.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Marrom.png"
     },
     {
       "ropeName": "Marrom-Vermelha", 
@@ -277,7 +277,7 @@
       "category": "Adulto",
       "competitionCategory": "Competidor(a) categoria A",
       "introduction": "Transformação. É a partir dessa graduação que será formado os futuros mestrandos e mestres da ABADÁ-Capoeira",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Marrom-Vermelha.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Marrom-Vermelha.png"
     },
     {
       "ropeName": "Vermelha", 
@@ -286,7 +286,7 @@
       "category": "Adulto",
       "competitionCategory": null,
       "introduction": "A cor vermelha representa a pedra Rubi. É a pedra que simboliza a justiça, nessa graduação é exigido do capoeirista a consciência da responsabilidade que tem para com a capoeira",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Vermelha.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Vermelha.png"
     },
     {
       "ropeName": "Vermelha-Branca", 
@@ -295,7 +295,7 @@
       "category": "Adulto",
       "competitionCategory": null,
       "introduction": "Os Mestres. Essa é a graduação que presenta o conhecimento e a sabedoria na capoeira para todas as graduações antecedentes",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Vermelha-Branca.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Vermelha-Branca.png"
     },
     {
       "ropeName": "Branca", 
@@ -304,7 +304,7 @@
       "category": "Adulto",
       "competitionCategory": null,
       "introduction": "A cor branca representa o diamante, é o mineral que reflete todas as cores. Essa graduação é a junção de todas as cores do sistema de hierarquia, é a graduação que representa todo o sistema da ABADÁ-Capoeira, seus ideais, filosofia, fundamento e tradições. É o Grão-Mestre que gerencia e conduz o futuro da escola",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Branca.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Branca.png"
     }
   ],
 
@@ -316,7 +316,7 @@
       "graduationOrder": "1º graduação",
       "category": "Baobá",
       "introduction": "introdução",
-      "urlImage": "https://suamtech.github.io/App-Abada/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
+      "urlImage": "https://raw.githubusercontent.com/SuamTech/App-Abada/master/Graduation%20System/Graduation%20for%20adults/images/Crua.png"
     }
   ]
 
